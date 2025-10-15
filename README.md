@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>...</b>
-  - [](https:)
+- [Leaderboard Project](https://github.com/BenjyHollister/Leaderboard)
 
 
 <h2>📝 Certifications</h2>
